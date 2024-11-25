@@ -15,7 +15,7 @@
   - User: Can create, edit, and delete their blogs.  
 
 - **Blog Management:**  
-  - Create, edit, and delete blogs.  
+  - Create, edit,comment and delete blogs.  
   - View and comment on blogs.  
 
 - **File Uploads:**  
